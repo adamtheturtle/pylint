@@ -39,6 +39,9 @@ What's New in Pylint 2.0?
 
        Close #1793
 
+    * Fix `KeyError` raised when using docparams and NotImplementedError is documented
+
+       Fixes #2102
 
 What's New in Pylint 1.9?
 =========================
